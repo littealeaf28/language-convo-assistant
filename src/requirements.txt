@@ -1,0 +1,6 @@
+pyopenjtalk
+Cython
+pydub
+simpleaudio
+whisper
+sounddevice
